@@ -1,0 +1,9 @@
+streamlit
+pandas
+ollama
+plotly
+folium
+streamlit-folium
+gTTS
+SpeechRecognition
+pyaudio

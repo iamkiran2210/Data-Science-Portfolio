@@ -1,0 +1,12 @@
+State,District,Latitude,Longitude,Groundwater_Level_Meters,Water_Quality_TDS_mg_L,Recommended_Crops
+Rajasthan,Jaipur,26.9124,75.7873,45.2,750,Pearl Millet;Wheat
+Maharashtra,Pune,18.5204,73.8567,25.8,450,Sugarcane;Jowar
+Tamil Nadu,Chennai,13.0827,80.2707,15.5,1200,Rice;Groundnut
+Uttar Pradesh,Lucknow,26.8467,80.9462,33.1,600,Wheat;Rice;Sugarcane
+Andhra Pradesh,Visakhapatnam,17.6868,83.2185,12.3,950,Rice;Maize
+Karnataka,Bengaluru,12.9716,77.5946,55.9,550,Ragi;Maize
+Punjab,Ludhiana,30.9010,75.8573,60.5,400,Wheat;Rice
+Gujarat,Ahmedabad,23.0225,72.5714,40.7,850,Cotton;Groundnut
+Telangana,Hyderabad,17.3850,78.4867,38.2,700,Cotton;Maize;Rice
+Kerala,Kochi,9.9312,76.2673,8.9,300,Coconut;Rice;Spices
+Madhya Pradesh,Bhopal,23.2599,77.4126,29.6,650,Soybean;Wheat
